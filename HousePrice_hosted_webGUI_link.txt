@@ -1,0 +1,11 @@
+Name: SEGUN-OGUNBIYI OLUWANIFEMI TOLULOPE
+
+Matric Number: 22CG031953
+
+Machine Learning Algorithm Used: Random Forest Regressor
+
+Model persistence method used (e.g., Joblib or Pickle): Joblib
+
+Live URL of the hosted application: https://house-prediction-system-jr6r.onrender.com/
+
+GitHub repository link: https://github.com/Anonymousexit/House_prediction_system
